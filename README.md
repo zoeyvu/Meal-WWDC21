@@ -1,7 +1,7 @@
  ![Meal](header.png)
 Submission for WWDC2021
 
-Step to play with the playground:
+Steps to play with the playground:
 1. Download and unzip the file
 2. Open Meal.playground with Xcode
 3. You will see two Playground pages: Nutrition Info and Choose Food
