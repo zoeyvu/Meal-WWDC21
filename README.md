@@ -1,5 +1,5 @@
  ![Meal](header.png)
-Submission for WWDC2021
+[ACCEPTED] Submission for WWDC2021
 
 Steps to play with the playground:
 1. Download and unzip the file
